@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">If coding was a super-power I would chose to be a anti-hero</h3>
 <h4 align="center">I love creating things, exploring different mediums to bring to life with ideas, and embracing the chaos that comes with all that. Mainly focued on Web technologies at the moment and exploring combining my skills with music production and develpment, but have prevously dabbled in mobile dev</h4>
-<h4 align="center">Currently based in the UK and</h4>
+<h4 align="center">Currently based in the UK</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
