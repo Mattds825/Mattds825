@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">If coding was a super-power I would chose to be an anti-hero 🦸</h3>
 <h4 align="center">I love creating things, exploring different mediums to bring to life with ideas, and embracing the chaos that comes with all that. Currenly I am mainly focused on Web technologies and exploring combining my creative skills in music production and design with software develpment. I have also previously worked in mobile dev and studied Data Science and AI</h4>
 <h4 align="center">Currently based in Crawley, UK</h4>
 
